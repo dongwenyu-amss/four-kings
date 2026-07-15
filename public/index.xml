@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>我的相册 on Fourking</title>
-    <link>http://localhost:1313/fourking/</link>
-    <description>Recent content in 我的相册 on Fourking</description>
+    <title>我的相册 on Four Kings</title>
+    <link>https://dongwenyu-amss.github.io/four-kings/</link>
+    <description>Recent content in 我的相册 on Four Kings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fourking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dongwenyu-amss.github.io/four-kings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>自然风景</title>
-      <link>http://localhost:1313/fourking/nature/</link>
+      <link>https://dongwenyu-amss.github.io/four-kings/nature/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fourking/nature/</guid>
-        <media:content url="http://localhost:1313/fourking/nature/feature_hu_ded186f0624c5361.jpg" type="image/jpeg"/>
+      <guid>https://dongwenyu-amss.github.io/four-kings/nature/</guid>
+        <media:content url="https://dongwenyu-amss.github.io/four-kings/nature/feature_hu_ded186f0624c5361.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/fourking/nature/feature_hu_ded186f0624c5361.jpg&quot; /&gt;
+          &lt;img src=&quot;https://dongwenyu-amss.github.io/four-kings/nature/feature_hu_ded186f0624c5361.jpg&quot; /&gt;
           &lt;p&gt;这里放一些自然风景照片。&lt;/p&gt;
         </description></item>
   </channel>

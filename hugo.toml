@@ -1,7 +1,7 @@
-baseURL = "https://four-kings.github.io/fourking/"
-languageCode = "zh-cn"
-title = "Fourking"
+baseURL = "https://dongwenyu-amss.github.io/four-kings/"
+title = "Four Kings"
 theme = "gallery"
+locale = "zh-cn"
 
 [params]
   defaultTheme = "dark"
