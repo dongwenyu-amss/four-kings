@@ -1,0 +1,7 @@
+baseURL = "https://four-kings.github.io/fourking/"
+languageCode = "zh-cn"
+title = "Fourking"
+theme = "gallery"
+
+[params]
+  defaultTheme = "dark"
